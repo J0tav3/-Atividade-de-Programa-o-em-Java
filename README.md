@@ -31,5 +31,5 @@ O programa permite ao usuário escolher entre várias funcionalidades, cada uma 
 
 1. Clone o repositório:
 ```sh
-git clone <[URL_DO_REPOSITORI](https://github.com/J0tav3/-Atividade-de-Programa-o-em-Java.git)O>
+git clone <https://github.com/J0tav3/-Atividade-de-Programa-o-em-Java.git>
 cd Atividade_Programacao_Java
